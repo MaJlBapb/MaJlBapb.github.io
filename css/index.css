@@ -5,6 +5,7 @@ body {
     overflow: hidden;
     margin: 0;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
@@ -20,6 +21,15 @@ body {
     font-size: 100px;
     font-family: 'Oswald', sans-serif;
     white-space: nowrap;
+}
+
+.email {
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+    font-size: 28px;
+    margin-top: 20px;
 }
 
 ::selection {
