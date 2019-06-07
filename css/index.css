@@ -22,6 +22,16 @@ body {
     white-space: nowrap;
 }
 
+::selection {
+    background: #fff;
+    color: #000;
+}
+
+::-moz-selection {
+    background: #fff;
+    color: #000;
+   
+
 @media screen and (max-width: 576px) {
     .text {
         font-size: 48px;
