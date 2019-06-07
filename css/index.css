@@ -30,6 +30,7 @@ body {
 ::-moz-selection {
     background: #fff;
     color: #000;
+}
    
 
 @media screen and (max-width: 576px) {
