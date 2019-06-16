@@ -68,7 +68,7 @@ body {
 }
 
 .external-link-vk {
-    background-image: url(../images/vk.svg);
+    background-image: url(//res.cloudinary.com/minecraftunion/image/upload/v1560716860/vk.svg);
     background-repeat: no-repeat;
     background-size: 32px;
     background-position: 20px center;
@@ -81,7 +81,7 @@ body {
 }
 
 .external-link-steam {
-    background-image: url(../images/steam.svg);
+    background-image: url(//res.cloudinary.com/minecraftunion/image/upload/v1560716860/steam.svg);
     background-repeat: no-repeat;
     background-size: 32px;
     background-position: 20px center;
