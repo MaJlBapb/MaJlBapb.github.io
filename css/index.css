@@ -35,6 +35,7 @@ body {
     background: transparent;
     border: none;
     outline: none;
+    text-align: center;
 }
 
 ::selection {
