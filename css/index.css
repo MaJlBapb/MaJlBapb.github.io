@@ -64,7 +64,7 @@ body {
 }
 
 .external-link:active {
-    transform: scale(0.15);
+    transform: scale(0.9);
 }
 
 .external-link:hover {
