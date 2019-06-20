@@ -61,7 +61,11 @@ body {
     box-sizing: border-box;
     flex-shrink: 0;
     transition: .2s;
-}   
+}
+
+.external-link:active {
+    transform: scale(0.15);
+}
 
 .external-link:hover {
     background-color: rgba(255, 255, 255, 0.3);
