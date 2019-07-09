@@ -69,6 +69,7 @@ body {
     box-sizing: border-box;
     flex-shrink: 0;
     transition: .2s;
+    cursor: default;
 }
 
 .external-link:active {
